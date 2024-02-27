@@ -9,7 +9,7 @@ permalink: LINKS/
 1.[How to Add SSH Public Key to Server](https://linuxhandbook.com/add-ssh-public-key-to-server/) gave me a new view about public keys and how to create them.
 
 ### Week 03
-1.[Basic C language](https://www.w3schools.com/c/c_intro.php) helps me learn the basic of C language.
+1.[Basic C language](https://www.w3schools.com/c/c_intro.php) helps me learn the basic of C language.<br>
 
 2.[How to Set File Permissions in Linux](https://www.geeksforgeeks.org/permissions-in-linux/) is about many kinds of permission related to file or directory.
 
