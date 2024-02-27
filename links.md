@@ -10,5 +10,6 @@ permalink: LINKS/
 
 ### Week 03
 1.[Basic C language](https://www.w3schools.com/c/c_intro.php) helps me learn the basic of C language.
+
 2.[How to Set File Permissions in Linux](https://www.geeksforgeeks.org/permissions-in-linux/) is about many kinds of permission related to file or directory.
 
